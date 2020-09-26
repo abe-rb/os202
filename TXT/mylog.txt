@@ -6,3 +6,8 @@ ZCZC W00   5 L00 General Log
 ZCZC W00  60 L02 Zoom Class
 ZCZC W00  15 L03 Github related
 ZCZC W00  55 L04 Github Pages related
+ZCZC W01 100 L02 Zoom Class
+ZCZC W01  30 L21 Setting up VirtualBox
+ZCZC W01 300 L21 Fixing VirtualBox
+ZCZC W01 100 L10 Week 1 Assignment
+ZCZC W01   5 L00 General Log
