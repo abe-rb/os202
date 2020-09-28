@@ -1,8 +1,3 @@
-[WEB](https://abebrahmana.github.io/os202/)
-[GitHub](https://github.com/abebrahmana/os202/)
-
-<br>
-
 # My name is Abraham
 
 ## [My Log](TXT/mylog.txt)
