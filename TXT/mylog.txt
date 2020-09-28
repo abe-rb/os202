@@ -11,3 +11,4 @@ ZCZC W01  30 L21 Setting up VirtualBox
 ZCZC W01 300 L21 Fixing VirtualBox
 ZCZC W01 100 L10 Week 1 Assignment
 ZCZC W01   5 L00 General Log
+ZCZC W01 100 L10 Weekly Top 10 list
