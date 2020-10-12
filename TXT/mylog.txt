@@ -16,3 +16,11 @@ ZCZC W02 100 L02 Zoom Class
 ZCZC W02 400 L21 VirtualBox GPG
 ZCZC W02 100 L10 Week 2 Assignment
 ZCZC W02  15 L00 General Log
+ZCZC W03 100 L02 Zoom Class
+ZCZC W03  60 L01 Reading SCELE discussion
+ZCZC W03  30 L13 Update .bash_aliases
+ZCZC W03  30 L16 Run chktoken OS202
+ZCZC W03  60 L17 TLPI disk usage
+ZCZC W03  15 L00 General Log
+ZCZC W03 120 L07 Week02 and Week03 Demos
+ZCZC W03 200 L10 Week 3 Assignment

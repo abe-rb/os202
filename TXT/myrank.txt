@@ -5,3 +5,6 @@ ZCZC W00 afkbarrafs
 ZCZC W01 Abimanyu-TheProgrammer
 ZCZC W01 alifyandra
 ZCZC W01 aks861
+ZCZC W02 achmadafriza
+ZCZC W02 akbarrafs
+ZCZC W02 alifyandra
