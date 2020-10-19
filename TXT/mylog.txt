@@ -24,3 +24,6 @@ ZCZC W03  60 L17 TLPI disk usage
 ZCZC W03  15 L00 General Log
 ZCZC W03 120 L07 Week02 and Week03 Demos
 ZCZC W03 200 L10 Week 3 Assignment
+ZCZC W04 300 L10 Week 4 Assignment
+ZCZC W04 300 L05 GSGS for top10 list
+ZCZC W04   5 L00 General Log
