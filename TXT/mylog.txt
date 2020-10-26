@@ -27,3 +27,7 @@ ZCZC W03 200 L10 Week 3 Assignment
 ZCZC W04 300 L10 Week 4 Assignment
 ZCZC W04 300 L05 GSGS for top10 list
 ZCZC W04   5 L00 General Log
+ZCZC W05 100 L01 ZOOM Class
+ZCZC W05 100 L10 Week 5 assignment
+ZCZC W05 100 L10 Top 10 list
+ZCZC W05   5 l00 General Log
