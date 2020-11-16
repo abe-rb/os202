@@ -31,3 +31,11 @@ ZCZC W05 100 L01 ZOOM Class
 ZCZC W05 100 L10 Week 5 assignment
 ZCZC W05 100 L10 Top 10 list
 ZCZC W05   5 l00 General Log
+ZCZC W06   5 L15 running the chktoken
+ZCZC W06  30 L16 Understanding assignment 6
+ZCZC W06  30 L16 Doing assignment 6 using sleep()
+ZCZC W06 180 L25 Learning fork() and wait()
+ZCZC W06  30 L16 Doing assignment 6 using wait()
+ZCZC W06  60 L20 tar and encrypt the W06 folder
+ZCZC W06 120 L14 Creating top 10 list
+ZCZC W06   5 L00 General Log
