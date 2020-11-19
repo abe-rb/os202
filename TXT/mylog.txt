@@ -39,3 +39,9 @@ ZCZC W06  30 L16 Doing assignment 6 using wait()
 ZCZC W06  60 L20 tar and encrypt the W06 folder
 ZCZC W06 120 L14 Creating top 10 list
 ZCZC W06   5 L00 General Log
+ZCZC W07 100 L02 Zoom Class
+ZCZC W07   5 L16 Running chktoken
+ZCZC W07  15 L14 Ranking classmate
+ZCZC W07  10 L15 Creating top 10 list
+ZCZC W07 240 L20 Doing the C assignment
+ZCZC W07   5 L00 General Log
