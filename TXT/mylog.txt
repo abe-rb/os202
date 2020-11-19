@@ -45,3 +45,4 @@ ZCZC W07  15 L14 Ranking classmate
 ZCZC W07  10 L15 Creating top 10 list
 ZCZC W07 240 L20 Doing the C assignment
 ZCZC W07   5 L00 General Log
+ZCZC W07 150 L15 Continue creating top 10 list
